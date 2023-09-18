@@ -1,5 +1,5 @@
 ##ALL ABOUT dictionary
-##dictionary is an UNORDERED, INDEXED and (therefore) MUTABLE collection.
+##dictionary is an ORDERED(V 3.7+), INDEXED and (therefore) MUTABLE collection.
 ##It does not allow duplicate values.
 ##use a dictionary when,
 ##need a logical association between a key-value pair
